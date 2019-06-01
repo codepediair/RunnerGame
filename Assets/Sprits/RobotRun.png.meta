@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 822590762a463d8428c9a32237e1eb52
+timeCreated: 1463945117
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RobotRun_0
+    21300002: RobotRun_1
+    21300004: RobotRun_2
+    21300006: RobotRun_3
+    21300008: RobotRun_4
+    21300010: RobotRun_5
+    21300012: RobotRun_6
+    21300014: RobotRun_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RobotRun_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 279
+        width: 150
+        height: 227
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotRun_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 286
+        width: 142
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotRun_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 286
+        width: 163
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotRun_3
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 293
+        width: 142
+        height: 213
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotRun_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 57
+        width: 156
+        height: 209
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotRun_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 46
+        width: 160
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotRun_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 46
+        width: 169
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotRun_7
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 46
+        width: 152
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
